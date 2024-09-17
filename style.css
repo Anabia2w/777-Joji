@@ -1,0 +1,59 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;  
+}
+
+header{
+        background-color: black;
+        padding: 35px;
+        color: white;
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+        font-size: 30px;
+    }
+
+div{
+    font-size: 20px;
+}
+
+body{
+    font-size: 30px;
+}
+
+main{
+      font-family: 'Franklin Gothic Medium';
+    }
+
+#we{
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+
+}
+#you{
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+    
+}
+#when{
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+}
+#cause{
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+}
+#blame{
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+}
+#oh{ 
+    display: flex;
+    margin: 30px;
+    font-size: 35px;
+}
